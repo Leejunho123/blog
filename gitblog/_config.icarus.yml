@@ -217,11 +217,11 @@ widgets:
         position: left
         type: profile
         # Author name
-        author: Your name
+        author: Leejunho
         # Author title
-        author_title: Your title
+        author_title: Data
         # Author's current location
-        location: Your location
+        location: 대구
         # URL or path to the avatar image
         avatar: 
         # Whether show the rounded avatar image

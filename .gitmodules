@@ -1,3 +1,6 @@
 [submodule "gitblog/themes/icarus"]
 	path = gitblog/themes/icarus
 	url = https://github.com/ppoffice/hexo-theme-icarus.git
+[submodule "themes/beautiful-hexo"]
+	path = themes/beautiful-hexo
+	url = https://github.com/twoyao/beautiful-hexo.git
