@@ -1,5 +1,5 @@
 ---
-title: logitstic_SVM_Tree_KNN
+title: logitstic
 ---
 
 
