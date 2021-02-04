@@ -223,7 +223,7 @@ widgets:
         # Author's current location
         location: 대구
         # URL or path to the avatar image
-        avatar: 
+        avatar: 'https://github.com/Leejunho123/blog/blob/main/gitblog/source/img/3.JPG?raw=true'
         # Whether show the rounded avatar image
         avatar_rounded: false
         # Email address for the Gravatar
