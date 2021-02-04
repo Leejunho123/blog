@@ -38,3 +38,4 @@ $ hexo deploy
 More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
 
 ![img](/img/3.JPG)
+![img](/img/4.JPG)
