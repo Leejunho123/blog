@@ -1,5 +1,5 @@
 ---
-title: logitstic
+title: logitstic_knn
 ---
 
 
