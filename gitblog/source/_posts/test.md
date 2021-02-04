@@ -39,3 +39,7 @@ More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
 
 ![](/img/3.JPG)
 ![](/img/4.JPG)
+
+```bash
+확인
+```
